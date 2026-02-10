@@ -1,5 +1,6 @@
 alias: Hue Dimmer – multi-button handler
 variables:
+  light1_entity:
   light2_entity:
   step_size:
 trigger:
